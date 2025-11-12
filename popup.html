@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fetch Stripe Reports</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h2>Fetch Stripe Reports</h2>
+
+  <label for="apiKey">Stripe Secret Key:</label>
+  <input id="apiKey" type="password" placeholder="sk_test_..." />
+  <small id="keyStatus" style="color:gray; display:block; margin-bottom:6px;"></small>
+
+  <label for="reportType">Select Report:</label>
+  <select id="reportType">
+    <option value="charges">Charges</option>
+    <option value="payment_intents">Payment Intents</option>
+    <option value="refunds">Refunds</option>
+    <option value="customers">Customers</option>
+    <option value="payouts">Payouts</option>
+    <option value="balance_transactions">Balance Transactions</option>
+  </select>
+
+  <button id="fetchBtn">Fetch & Download CSV</button>
+  <button id="clearKeyBtn" style="margin-top:5px; background:#999;">Clear Saved Key</button>
+
+  <pre id="output"></pre>
+
+  <script src="popup.js"></script>
+</body>
+
+</html>
