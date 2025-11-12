@@ -2,7 +2,7 @@
 
 A free Chrome Extension to fetch your **Stripe charges, payouts, refunds, and customers** — and export them as a CSV in one click.
 
-👉 [Website](https://devdunia.com/stripe-reports)  
+👉 [Website](https://devdunia.com/privacy/stripe-reports)  
 👉 [Privacy Policy](https://devdunia.com/privacy/stripe-reports)
 
 ---
