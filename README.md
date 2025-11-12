@@ -18,4 +18,4 @@ A free Chrome Extension to fetch your **Stripe charges, payouts, refunds, and cu
 ## ⚙️ Installation (Developer Mode)
 1. Download the repo ZIP or clone it:
    ```bash
-   git clone https://github.com/devdunia/stripe-reports.git
+   git clone https://github.com/echobash/fetch-stripe-reports
