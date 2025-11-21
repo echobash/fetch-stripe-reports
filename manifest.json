@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Stripe Reports (by echobash)",
   "version": "1.0.0",
-  "description": "Fetch Stripe charges, payouts, and refunds and download as CSV — built by Ali Anwar (@echobash).",
+  "description": "Fetch all Stripe charges, payouts, and refunds and download as CSV — built by Ali Anwar (@echobash).",
   "permissions": ["storage", "scripting"],
   "host_permissions": ["https://api.stripe.com/*"],
   "action": {
