@@ -17,7 +17,7 @@ A free Chrome Extension to fetch your **Stripe charges, payouts, refunds, and cu
 - **CSV export** for instant download
 - **Secure** — your Stripe API key stays local in Chrome storage
 - **No backend**, no analytics, no data collection
-
+- Plug and Play
 ---
 
 ## ⚙️ Installation (Developer Mode)
