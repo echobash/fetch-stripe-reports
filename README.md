@@ -5,12 +5,17 @@ A free Chrome Extension to fetch your **Stripe charges, payouts, refunds, and cu
 👉 [Website](https://devdunia.com/privacy/stripe-reports)  
 👉 [Privacy Policy](https://devdunia.com/privacy/stripe-reports)
 
-### 🔗 Install the Extension  
-- 👉 **Chrome Extension:** ([Chrome Extension in Store](https://chromewebstore.google.com/detail/stripe-reports-by-echobas/eiekgkgjpglcajifogmdpbbkckcmmhbl))
-- 👉 **Landing Page:** https://echobash.com/stripe-reports  
-- 👉 **Source Code:** https://github.com/echobash/fetch-stripe-reports
+### 🔗 Install the Extension
 
----
+- 👉 **Chrome Extension:**  
+  [Stripe Reports by Echobash](https://chromewebstore.google.com/detail/stripe-reports-by-echobas/eiekgkgjpglcajifogmdpbbkckcmmhbl)
+
+- 👉 **Landing Page:**  
+  https://echobash.com/stripe-reports
+
+- 👉 **Source Code:**  
+  https://github.com/echobash/fetch-stripe-reports
+
 
 ## 🧩 Features
 - Fetches **charges, payouts, refunds, customers, and balance transactions**
