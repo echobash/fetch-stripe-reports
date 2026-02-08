@@ -41,3 +41,5 @@ A free Chrome Extension to fetch your **Stripe charges, payouts, refunds, and cu
 - The extension uses your Stripe Secret Key to call https://api.stripe.com/v1/* endpoints.
 - Data is fetched directly from Stripe’s API and converted into a clean, downloadable CSV file.
 - Your key is stored locally in Chrome’s secure storage — never transmitted anywhere else.
+
+If you are using the extension, feel free to star the repo
