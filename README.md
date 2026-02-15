@@ -15,6 +15,8 @@ A free Chrome Extension to fetch your **Stripe charges, payouts, refunds, and cu
 
 - 👉 **Source Code:**  
   https://github.com/echobash/fetch-stripe-reports
+  <img width="1344" height="753" alt="Screenshot 2026-02-15 at 11 32 01 PM" src="https://github.com/user-attachments/assets/68b98602-e06c-40ce-835e-165ce844da44" />
+
 
 
 ## 🧩 Features
