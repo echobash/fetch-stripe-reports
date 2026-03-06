@@ -63,3 +63,49 @@ git clone https://github.com/echobash/fetch-stripe-reports
 
 2. Open Chrome Extensions
 Go to chrome://extensions/
+
+3. Enable Developer Mode
+
+Toggle Developer Mode in the top-right corner.
+
+4. Load the extension
+
+Click:
+Load unpacked
+
+Then select the cloned repository folder.
+
+5. Use the extension
+	1.	Click the extension icon in Chrome
+	2.	Enter your Stripe Secret Key
+	3.	Select the report you want
+	4.	Click Fetch & Download CSV
+
+⸻
+
+🔐 Security
+	•	Your Stripe Secret Key stays inside your browser
+	•	Stored only in Chrome’s secure local storage
+	•	No servers involved
+	•	No tracking
+	•	No analytics
+
+Everything runs locally on your machine.
+
+⸻
+
+⭐ Support the Project
+
+If you find this extension useful:
+	•	⭐ Star the repository
+	•	Share it with other developers using Stripe
+https://github.com/echobash/fetch-stripe-reports
+
+👨‍💻 Author
+
+Built by Echobash
+
+Website
+https://echobash.com
+
+---
